@@ -2,20 +2,25 @@ body {
   background-image: url(./img/wild-sea.png);
 }
 
-p {
-  font-family: Arial;
-  color: green;
+div {
+  margin: 0 auto;
 }
 
 .header {
-  color: black;
   background-color: white;
   text-align: center;
   width: 320px;
   opacity: 0.8;
-  font-family: garamond;
+  font-family: Nimbus Sans L;
+}
+.header h1 {
+  margin-bottom: 12px;
 }
 
-.header h1 {
-  font-size:
+.header p {
+  margin-top: 12px;
+}
+
+.main_list {
+  width: 200px;
 }
