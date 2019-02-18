@@ -1,11 +1,21 @@
+body {
+  background-image: url(./img/wild-sea.png);
+}
+
 p {
   font-family: Arial;
+  color: green;
 }
 
-h1 {
-  font-family: cursive;
+.header {
+  color: black;
+  background-color: white;
+  text-align: center;
+  width: 320px;
+  opacity: 0.8;
+  font-family: garamond;
 }
 
-.title {
-  color: teal;
+.header h1 {
+  font-size:
 }
