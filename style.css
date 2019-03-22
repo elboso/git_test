@@ -1,5 +1,5 @@
 body {
-  background-image: url(./img/leaves.png);
+  background-image: url(./img/wild-sea.png);
 }
 
 div {
@@ -8,7 +8,7 @@ div {
 
 .whiteBox {
   background-color: white;
-  opacity: 0.8;
+  opacity: 0.4;
   width: 60%;
   height: 1200px;
   z-index: 1;
