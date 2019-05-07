@@ -41,3 +41,7 @@ div {
   text-align: center;
   z-index: 2;
 }
+
+.blackBox {
+  background-color: pink;
+}
