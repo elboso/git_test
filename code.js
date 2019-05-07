@@ -41,6 +41,10 @@ btn.onclick = alerte;
 // Bouton version 3
 const button2 = document.querySelector('#button2');
 button2.addEventListener('click', alerte);
+button2.addEventListener('click', function(e){
+  console.log(e.target);
+  e.target.style.background = 'blue';
+});
 
 // function d'alerte Bouton
 function alerte () {
